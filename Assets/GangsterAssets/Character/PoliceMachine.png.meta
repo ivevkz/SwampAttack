@@ -1,0 +1,1127 @@
+fileFormatVersion: 2
+guid: 2574f84b298ff8d44a2727e08e4e66c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8017061657339395450
+    second: PoliceMachine_Idle_01
+  - first:
+      213: 1720711199022527322
+    second: PoliceMachine_Idle_02
+  - first:
+      213: 6229267533306121185
+    second: PoliceMachine_Idle_03
+  - first:
+      213: -8081537497202690239
+    second: PoliceMachine_Idle_04
+  - first:
+      213: 6924305263626781416
+    second: PoliceMachine_Idle_05
+  - first:
+      213: 2566352360934846610
+    second: PoliceMachine_Idle_06
+  - first:
+      213: -378387983182914229
+    second: PoliceMachine_6
+  - first:
+      213: 8784781346760504634
+    second: PoliceMachine_7
+  - first:
+      213: -4840712245221502220
+    second: PoliceMachine_8
+  - first:
+      213: 89916349877165126
+    second: PoliceMachine_9
+  - first:
+      213: -6152625622269927149
+    second: PoliceMachine_10
+  - first:
+      213: -8874518361130462482
+    second: PoliceMachine_11
+  - first:
+      213: -5157826497022892905
+    second: PoliceMachine_12
+  - first:
+      213: 6049552699383274676
+    second: PoliceMachine_13
+  - first:
+      213: 6026349841998890473
+    second: PoliceMachine_14
+  - first:
+      213: 4381744282000174855
+    second: PoliceMachine_15
+  - first:
+      213: 2263883227526373424
+    second: PoliceMachine_16
+  - first:
+      213: -7708501450795913993
+    second: PoliceMachine_17
+  - first:
+      213: -8765806337876108865
+    second: PoliceMachine_Walk_01
+  - first:
+      213: -915075449216507970
+    second: PoliceMachine_Walk_02
+  - first:
+      213: 4301216994856670376
+    second: PoliceMachine_Walk_03
+  - first:
+      213: 479935987709274475
+    second: PoliceMachine_Walk_04
+  - first:
+      213: 9009473503322508841
+    second: PoliceMachine_Walk_05
+  - first:
+      213: -8186793682342561022
+    second: PoliceMachine_Walk_06
+  - first:
+      213: -6191542678290730771
+    second: PoliceMachine_Walk_07
+  - first:
+      213: -8542441202915844682
+    second: PoliceMachine_Walk_08
+  - first:
+      213: -1340161143618991673
+    second: PoliceMachine_Shoot_01
+  - first:
+      213: 2795512493937689150
+    second: PoliceMachine_27
+  - first:
+      213: -8287926152386180708
+    second: PoliceMachine_Shoot_02
+  - first:
+      213: 5765539577420027404
+    second: PoliceMachine_Shoot_03
+  - first:
+      213: -1802659030501845139
+    second: PoliceMachine_Shoot_04
+  - first:
+      213: -2714463384039047278
+    second: PoliceMachine_Shoot_05
+  - first:
+      213: -6364639971225091176
+    second: PoliceMachine_Shoot_06
+  - first:
+      213: 1121311705327376247
+    second: PoliceMachine_33
+  - first:
+      213: 7045553379764369868
+    second: PoliceMachine_34
+  - first:
+      213: 430113504503755819
+    second: PoliceMachine_35
+  - first:
+      213: 2358867458255745517
+    second: PoliceMachine_Hurt_01
+  - first:
+      213: -7123584080433802492
+    second: PoliceMachine_37
+  - first:
+      213: 7956948193831099264
+    second: PoliceMachine_Hurt_02
+  - first:
+      213: -3404698376740238367
+    second: PoliceMachine_Hurt_03
+  - first:
+      213: -440815184392482243
+    second: PoliceMachine_Hurt_04
+  - first:
+      213: 2557853289741825466
+    second: PoliceMachine_41
+  - first:
+      213: 4353718701168797683
+    second: PoliceMachine_42
+  - first:
+      213: 4452976452022757002
+    second: PoliceMachine_43
+  - first:
+      213: -6544819426255680042
+    second: PoliceMachine_44
+  - first:
+      213: -8641173300134232229
+    second: PoliceMachine_45
+  - first:
+      213: -4580145029892079884
+    second: PoliceMachine_46
+  - first:
+      213: 4283241831765191012
+    second: PoliceMachine_47
+  - first:
+      213: 7572620182884908210
+    second: PoliceMachine_48
+  - first:
+      213: -5589949049442941199
+    second: PoliceMachine_49
+  - first:
+      213: -7994210458261134536
+    second: PoliceMachine_50
+  - first:
+      213: 7789713077689554302
+    second: PoliceMachine_51
+  - first:
+      213: -5232678219289124928
+    second: PoliceMachine_52
+  - first:
+      213: -1408798375771227682
+    second: PoliceMachine_53
+  - first:
+      213: 8992575534920287530
+    second: PoliceMachine_54
+  - first:
+      213: -7259751943523815438
+    second: PoliceMachine_55
+  - first:
+      213: -3572559965589513615
+    second: PoliceMachine_56
+  - first:
+      213: 3733491984749869975
+    second: PoliceMachine_57
+  - first:
+      213: -1290509737607470969
+    second: PoliceMachine_58
+  - first:
+      213: -5195982677405889525
+    second: PoliceMachine_59
+  - first:
+      213: 5956440472197406460
+    second: PoliceMachine_60
+  - first:
+      213: 2079070070501800387
+    second: PoliceMachine_61
+  - first:
+      213: 3541717048882460436
+    second: PoliceMachine_62
+  - first:
+      213: -8340950078934323943
+    second: PoliceMachine_Death_01
+  - first:
+      213: 7464752540822223295
+    second: PoliceMachine_Death_02
+  - first:
+      213: 358886778545026566
+    second: PoliceMachine_Death_03
+  - first:
+      213: 1282188776448552395
+    second: PoliceMachine_Death_04
+  - first:
+      213: -5775871203419920342
+    second: PoliceMachine_Death_05
+  - first:
+      213: 4702285151373583726
+    second: PoliceMachine_Death_06
+  - first:
+      213: 2343901455668307538
+    second: PoliceMachine_Death_07
+  - first:
+      213: -3082124717260907807
+    second: PoliceMachine_Death_08
+  - first:
+      213: 6730544376231786272
+    second: PoliceMachine_Death_09
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoliceMachine_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1046
+        width: 160
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4303751, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -78}
+        - {x: -80, y: 78}
+        - {x: 80, y: 78}
+        - {x: 80, y: 10}
+        - {x: 9, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d7e14e913524f60800000000000000
+      internalID: 8017061657339395450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1046
+        width: 160
+        height: 156
+      alignment: 9
+      pivot: {x: 0.43441468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -78}
+        - {x: -79.999985, y: -55.3562}
+        - {x: -65, y: 34}
+        - {x: -80, y: 78}
+        - {x: 80, y: 78}
+        - {x: 80, y: 5}
+        - {x: 14, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5336c208b131e710800000000000000
+      internalID: 1720711199022527322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1046
+        width: 160
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4303751, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -78}
+        - {x: -79.99997, y: -50.023926}
+        - {x: -66, y: 34}
+        - {x: -80, y: 78}
+        - {x: 80, y: 78}
+        - {x: 80, y: 1}
+        - {x: 21, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc59541ddc27650800000000000000
+      internalID: 6229267533306121185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1046
+        width: 160
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4303751, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -77}
+        - {x: -80, y: -53}
+        - {x: -66, y: 34}
+        - {x: -80, y: 77}
+        - {x: 80, y: 77}
+        - {x: 80, y: -17}
+        - {x: 9, y: -77}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147fb30d67c98df80800000000000000
+      internalID: -8081537497202690239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1046
+        width: 160
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4303751, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -77}
+        - {x: -79.99994, y: -43.735962}
+        - {x: -66, y: 31}
+        - {x: -80, y: 77}
+        - {x: 80, y: 77}
+        - {x: 80, y: -9}
+        - {x: 12, y: -77}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e287d263f2181060800000000000000
+      internalID: 6924305263626781416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1046
+        width: 160
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4303751, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -77}
+        - {x: -79.99994, y: -62.434204}
+        - {x: -69, y: 32}
+        - {x: -80, y: 77}
+        - {x: 80, y: 77}
+        - {x: 80, y: -77}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b10a00e38d9320800000000000000
+      internalID: 2566352360934846610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 687
+        width: 176
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9d6053499995680800000000000000
+      internalID: -8765806337876108865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 690
+        width: 187
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfd4ca2abffc43f0800000000000000
+      internalID: -915075449216507970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 690
+        width: 155
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41e48611ef0bb30800000000000000
+      internalID: 4301216994856670376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 690
+        width: 162
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69665eec3319a600800000000000000
+      internalID: 479935987709274475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 687
+        width: 176
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.9942, y: -80.5}
+        - {x: -88, y: -80.5}
+        - {x: -88, y: 80.5}
+        - {x: 88, y: 80.5}
+        - {x: 88, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e05d2ca64180d70800000000000000
+      internalID: 9009473503322508841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 690
+        width: 187
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3f8a758aa26e80800000000000000
+      internalID: -8186793682342561022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 690
+        width: 155
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07fc00db8331aa0800000000000000
+      internalID: -6191542678290730771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Walk_08
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 690
+        width: 161
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5a895cf6237980800000000000000
+      internalID: -8542441202915844682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 514
+        width: 172
+        height: 157
+      alignment: 9
+      pivot: {x: 0.40037253, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90fc45a8ac66de0800000000000000
+      internalID: -1340161143618991673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 514
+        width: 158
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4382558, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990a52631f5bfc80800000000000000
+      internalID: -8287926152386180708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 514
+        width: 154
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4470843, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069392d2bf430050800000000000000
+      internalID: 5765539577420027404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 514
+        width: 152
+        height: 157
+      alignment: 9
+      pivot: {x: 0.45559892, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.517517, y: -78.5}
+        - {x: -76, y: -78.5}
+        - {x: -76, y: 78.5}
+        - {x: 76, y: 78.5}
+        - {x: 76, y: -41.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6799c3a92babf6e0800000000000000
+      internalID: -1802659030501845139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 514
+        width: 155
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4468077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3c8e1fe9445ad0800000000000000
+      internalID: -2714463384039047278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 514
+        width: 157
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4411275, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.17926, y: -78.5}
+        - {x: -78.5, y: -78.5}
+        - {x: -78.5, y: 78.5}
+        - {x: 78.5, y: 78.5}
+        - {x: 78.5, y: -46.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89340efdaa14ca7a0800000000000000
+      internalID: -6364639971225091176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Hurt_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 222
+        height: 163
+      alignment: 9
+      pivot: {x: 0.58236647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: -81.5}
+        - {x: -111, y: 81.5}
+        - {x: 68, y: 80.5}
+        - {x: 72, y: 50.5}
+        - {x: 111, y: 52.5}
+        - {x: 111, y: -81.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1ff8994716cb020800000000000000
+      internalID: 2358867458255745517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Hurt_02
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 341
+        width: 219
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5930011, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: -81.5}
+        - {x: -78.5, y: 53.5}
+        - {x: -109.5, y: 54.17328}
+        - {x: -109.5, y: 81.5}
+        - {x: 109.5, y: 81.5}
+        - {x: 109.5, y: -81.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1d7d7932cc6e60800000000000000
+      internalID: 7956948193831099264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Hurt_03
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 341
+        width: 159
+        height: 161
+      alignment: 9
+      pivot: {x: 0.43320817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8c0f7dd410c0d0800000000000000
+      internalID: -3404698376740238367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Hurt_04
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 341
+        width: 160
+        height: 157
+      alignment: 9
+      pivot: {x: 0.43050116, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3210b2ece8e1e9f0800000000000000
+      internalID: -440815184392482243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3
+        width: 160
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d6adf681efe3c80800000000000000
+      internalID: -8340950078934323943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_02
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 151
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: -98.5}
+        - {x: -75.5, y: 56.5}
+        - {x: -2.5, y: 98.5}
+        - {x: 47.5, y: 98.5}
+        - {x: 75.5, y: 56.5}
+        - {x: 75.5, y: -98.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb937ebc2e0289760800000000000000
+      internalID: 7464752540822223295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_03
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3
+        width: 159
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: -101.5}
+        - {x: -79.5, y: 42.5}
+        - {x: -29.5, y: 101.5}
+        - {x: 25.5, y: 101.5}
+        - {x: 79.5, y: 19.5}
+        - {x: 79.5, y: -101.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b2c5af950bf400800000000000000
+      internalID: 358886778545026566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_04
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3
+        width: 157
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd653b16ef3bc110800000000000000
+      internalID: 1282188776448552395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_05
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3
+        width: 192
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286fbb0ebbf7dfa0800000000000000
+      internalID: -5775871203419920342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_06
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3
+        width: 185
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6567307e6fd14140800000000000000
+      internalID: 4702285151373583726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_07
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 3
+        width: 188
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25661a594f5378020800000000000000
+      internalID: 2343901455668307538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_08
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3
+        width: 214
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea563246e71a35d0800000000000000
+      internalID: -3082124717260907807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMachine_Death_09
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3
+        width: 219
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0277c424372b76d50800000000000000
+      internalID: 6730544376231786272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

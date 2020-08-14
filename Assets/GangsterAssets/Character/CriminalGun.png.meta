@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 0599875df95a5bb4481ea43ca19e645d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5497312904820220586
+    second: CriminalGun_Idle_01
+  - first:
+      213: 3095808049921635074
+    second: CriminalGun_Idle_02
+  - first:
+      213: -6012248023267724488
+    second: CriminalGun_Idle_03
+  - first:
+      213: 9021425061470550134
+    second: CriminalGun_Idle_04
+  - first:
+      213: 1612236963635412028
+    second: CriminalGun_Idle_05
+  - first:
+      213: -1944540598090898288
+    second: CriminalGun_Idle_06
+  - first:
+      213: -1824028795432231710
+    second: CriminalGun_6
+  - first:
+      213: -164527571014473652
+    second: CriminalGun_7
+  - first:
+      213: 1789179681353141255
+    second: CriminalGun_8
+  - first:
+      213: -5197118737640764949
+    second: CriminalGun_9
+  - first:
+      213: -455764516861164925
+    second: CriminalGun_10
+  - first:
+      213: 7057382959806701773
+    second: CriminalGun_11
+  - first:
+      213: 6809536259406506263
+    second: CriminalGun_12
+  - first:
+      213: 9033602380218213164
+    second: CriminalGun_13
+  - first:
+      213: 3564558936769709298
+    second: CriminalGun_14
+  - first:
+      213: 1307766480001359033
+    second: CriminalGun_15
+  - first:
+      213: 6742629884697729792
+    second: CriminalGun_16
+  - first:
+      213: 5835712399132930956
+    second: CriminalGun_17
+  - first:
+      213: -4041665907728463370
+    second: CriminalGun_Walk_01
+  - first:
+      213: 6007250253968904882
+    second: CriminalGun_Walk_02
+  - first:
+      213: -2289207000252077917
+    second: CriminalGun_Walk_03
+  - first:
+      213: -5720782299485324429
+    second: CriminalGun_Walk_04
+  - first:
+      213: 1730878625822819785
+    second: CriminalGun_Walk_05
+  - first:
+      213: 496171355301410544
+    second: CriminalGun_Walk_06
+  - first:
+      213: 987507970457060790
+    second: CriminalGun_Walk_07
+  - first:
+      213: 4673663930246544472
+    second: CriminalGun_Walk_08
+  - first:
+      213: 200912988493881246
+    second: CriminalGun_Shoot_01
+  - first:
+      213: -2016141965150746532
+    second: CriminalGun_27
+  - first:
+      213: -7511157884876646680
+    second: CriminalGun_28
+  - first:
+      213: 1177973384119768159
+    second: CriminalGun_Shoot_02
+  - first:
+      213: -419257069328722323
+    second: CriminalGun_30
+  - first:
+      213: -2106584477611767375
+    second: CriminalGun_31
+  - first:
+      213: 7747988035035442825
+    second: CriminalGun_Shoot_03
+  - first:
+      213: -4257708397943659089
+    second: CriminalGun_Shoot_04
+  - first:
+      213: 7302895180751608371
+    second: CriminalGun_Shoot_05
+  - first:
+      213: -8869418270157317567
+    second: CriminalGun_Shoot_06
+  - first:
+      213: 3155975401813218222
+    second: CriminalGun_36
+  - first:
+      213: 4580969018026709464
+    second: CriminalGun_37
+  - first:
+      213: -8957216360047746792
+    second: CriminalGun_38
+  - first:
+      213: 2868125994558867598
+    second: CriminalGun_39
+  - first:
+      213: 6540970720606135964
+    second: CriminalGun_40
+  - first:
+      213: 8676982189930229218
+    second: CriminalGun_41
+  - first:
+      213: 927509056581648543
+    second: CriminalGun_42
+  - first:
+      213: -7818501239668023748
+    second: CriminalGun_43
+  - first:
+      213: -4680462822031911404
+    second: CriminalGun_44
+  - first:
+      213: -6896452351290274660
+    second: CriminalGun_Hurt_01
+  - first:
+      213: 2925952205594704798
+    second: CriminalGun_46
+  - first:
+      213: -7137978349767407768
+    second: CriminalGun_Hurt_02
+  - first:
+      213: -372374028945333010
+    second: CriminalGun_Hurt_03
+  - first:
+      213: -4849452702556395718
+    second: CriminalGun_Hurt_04
+  - first:
+      213: 1200856570305289322
+    second: CriminalGun_50
+  - first:
+      213: -1014960178384481850
+    second: CriminalGun_51
+  - first:
+      213: -1608904434544965022
+    second: CriminalGun_52
+  - first:
+      213: 8301217913008382722
+    second: CriminalGun_53
+  - first:
+      213: 6400419196282790001
+    second: CriminalGun_54
+  - first:
+      213: 1140471274953426003
+    second: CriminalGun_55
+  - first:
+      213: -5469706204093649557
+    second: CriminalGun_56
+  - first:
+      213: -3604053075245429893
+    second: CriminalGun_57
+  - first:
+      213: -8357909018117413222
+    second: CriminalGun_58
+  - first:
+      213: 126398118633651030
+    second: CriminalGun_59
+  - first:
+      213: 8188853657294082738
+    second: CriminalGun_60
+  - first:
+      213: -2924524149065558395
+    second: CriminalGun_61
+  - first:
+      213: 8524502903698130415
+    second: CriminalGun_62
+  - first:
+      213: 6476332299892680630
+    second: CriminalGun_63
+  - first:
+      213: -418350158429637512
+    second: CriminalGun_64
+  - first:
+      213: 8014679943327714193
+    second: CriminalGun_65
+  - first:
+      213: -6290395344822687923
+    second: CriminalGun_66
+  - first:
+      213: -8663210238945369423
+    second: CriminalGun_67
+  - first:
+      213: -3028077370308455662
+    second: CriminalGun_68
+  - first:
+      213: -135239566672145798
+    second: CriminalGun_69
+  - first:
+      213: 8026192774313286739
+    second: CriminalGun_70
+  - first:
+      213: -3297885742492088179
+    second: CriminalGun_71
+  - first:
+      213: 5604011184017072228
+    second: CriminalGun_72
+  - first:
+      213: 9107097224829616753
+    second: CriminalGun_Death_01
+  - first:
+      213: 6447032526115260451
+    second: CriminalGun_Death_02
+  - first:
+      213: -5409557839670545030
+    second: CriminalGun_Death_03
+  - first:
+      213: -4164825797070724643
+    second: CriminalGun_Death_04
+  - first:
+      213: 4639740832812594959
+    second: CriminalGun_Death_05
+  - first:
+      213: -3428682674260842428
+    second: CriminalGun_Death_06
+  - first:
+      213: 7328265001135595073
+    second: CriminalGun_Death_07
+  - first:
+      213: 336588825073761519
+    second: CriminalGun_Death_08
+  - first:
+      213: -1256404804441710862
+    second: CriminalGun_Death_09
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CriminalGun_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1053
+        width: 145
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d15010a0f95b3b0800000000000000
+      internalID: -5497312904820220586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1053
+        width: 145
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203bf54e40586fa20800000000000000
+      internalID: 3095808049921635074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1053
+        width: 145
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833359fe644309ca0800000000000000
+      internalID: -6012248023267724488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1053
+        width: 144
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67832ccbb4a823d70800000000000000
+      internalID: 9021425061470550134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1053
+        width: 145
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3e37f9f0df5610800000000000000
+      internalID: 1612236963635412028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1053
+        width: 145
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094677fe0aa9305e0800000000000000
+      internalID: -1944540598090898288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 693
+        width: 160
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c905454e19e7c0800000000000000
+      internalID: -4041665907728463370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 695
+        width: 172
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b211b8374a0e5350800000000000000
+      internalID: 6007250253968904882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 695
+        width: 139
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a823acac5a1b30e0800000000000000
+      internalID: -2289207000252077917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 696
+        width: 146
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb5d10fc2bb90b0800000000000000
+      internalID: -5720782299485324429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 693
+        width: 160
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c54c7980f0550810800000000000000
+      internalID: 1730878625822819785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 695
+        width: 171
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f6740831c2e600800000000000000
+      internalID: 496171355301410544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 695
+        width: 139
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c5ff544554bd00800000000000000
+      internalID: 987507970457060790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Walk_08
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 696
+        width: 146
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb6e915903cd040800000000000000
+      internalID: 4673663930246544472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 517
+        width: 177
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4174365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f90fd6c49c9c200800000000000000
+      internalID: 200912988493881246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 517
+        width: 180
+        height: 162
+      alignment: 9
+      pivot: {x: 0.41040903, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54d25b3d80095010800000000000000
+      internalID: 1177973384119768159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 517
+        width: 136
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5430163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea3483112668b60800000000000000
+      internalID: 7747988035035442825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 517
+        width: 135
+        height: 162
+      alignment: 9
+      pivot: {x: 0.54690933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ee5735c499e4c0800000000000000
+      internalID: -4257708397943659089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 517
+        width: 138
+        height: 162
+      alignment: 9
+      pivot: {x: 0.53532606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a9c987978195560800000000000000
+      internalID: 7302895180751608371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 517
+        width: 142
+        height: 162
+      alignment: 9
+      pivot: {x: 0.52024907, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -81}
+        - {x: 71, y: -39}
+        - {x: 71, y: 81}
+        - {x: -71, y: 81}
+        - {x: -71, y: -81}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad9e2531f79e480800000000000000
+      internalID: -8869418270157317567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Hurt_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 206
+        height: 167
+      alignment: 9
+      pivot: {x: 0.65460193, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8fee1021ea40a0800000000000000
+      internalID: -6896452351290274660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Hurt_02
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 343
+        width: 203
+        height: 166
+      alignment: 9
+      pivot: {x: 0.6591943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674faf628ec0fc90800000000000000
+      internalID: -7137978349767407768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Hurt_03
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 343
+        width: 144
+        height: 163
+      alignment: 9
+      pivot: {x: 0.512917, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4e1292bcf05daf0800000000000000
+      internalID: -372374028945333010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Hurt_04
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 343
+        width: 145
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5093796, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376115e57843bcb0800000000000000
+      internalID: -4849452702556395718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2
+        width: 145
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724aecaca8e26e70800000000000000
+      internalID: 9107097224829616753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_02
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2
+        width: 152
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: -94.5}
+        - {x: -76, y: 45.5}
+        - {x: 9, y: 94.5}
+        - {x: 76, y: 94.5}
+        - {x: 76, y: -94.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3284d76bce5787950800000000000000
+      internalID: 6447032526115260451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_03
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2
+        width: 163
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: -101}
+        - {x: -81.5, y: 39}
+        - {x: -0.5, y: 101}
+        - {x: 81.5, y: 23}
+        - {x: 81.5, y: -101}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f18e4ec36de4b0800000000000000
+      internalID: -5409557839670545030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_04
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2
+        width: 162
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16736f0019336c0800000000000000
+      internalID: -4164825797070724643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_05
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 192
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f077bad74bba36040800000000000000
+      internalID: 4639740832812594959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_06
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2
+        width: 186
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486521164fda60d0800000000000000
+      internalID: -3428682674260842428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_07
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2
+        width: 189
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5d94113a33b560800000000000000
+      internalID: 7328265001135595073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_08
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2
+        width: 199
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec33e9c0cdcba400800000000000000
+      internalID: 336588825073761519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CriminalGun_Death_09
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2
+        width: 205
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe5821bc7a509ee0800000000000000
+      internalID: -1256404804441710862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: bf4783bae02aca4498ecaf26d287f81f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5471795028715734053
+    second: PoliceGun_Idle_01
+  - first:
+      213: 8762509199346691013
+    second: PoliceGun_Idle_02
+  - first:
+      213: -1107456013812962713
+    second: PoliceGun_Idle_03
+  - first:
+      213: 5261338307467564058
+    second: PoliceGun_Idle_04
+  - first:
+      213: -8504081272828064103
+    second: PoliceGun_Idle_05
+  - first:
+      213: 1941134756590053022
+    second: PoliceGun_Idle_06
+  - first:
+      213: 7692488474577798765
+    second: PoliceGun_Down
+  - first:
+      213: 2527036813583128215
+    second: PoliceGun_7
+  - first:
+      213: 5189409821791684492
+    second: PoliceGun_8
+  - first:
+      213: 6295480103857156417
+    second: PoliceGun_9
+  - first:
+      213: 6990065931833383081
+    second: PoliceGun_10
+  - first:
+      213: 5077023786944226542
+    second: PoliceGun_11
+  - first:
+      213: -6038711795417997300
+    second: PoliceGun_12
+  - first:
+      213: 6755103803043774663
+    second: PoliceGun_13
+  - first:
+      213: -3295790488839304671
+    second: PoliceGun_14
+  - first:
+      213: -4217894347183722562
+    second: PoliceGun_15
+  - first:
+      213: -4485999562667041092
+    second: PoliceGun_16
+  - first:
+      213: 7429972975305024061
+    second: PoliceGun_17
+  - first:
+      213: 3148463178015661486
+    second: PoliceGun_Walk_01
+  - first:
+      213: 7985236061374696355
+    second: PoliceGun_Walk_02
+  - first:
+      213: -450221912844784668
+    second: PoliceGun_Walk_03
+  - first:
+      213: -7405438504537713659
+    second: PoliceGun_Walk_04
+  - first:
+      213: -6687400808016126490
+    second: PoliceGun_Walk_05
+  - first:
+      213: -2283692254882331436
+    second: PoliceGun_Walk_06
+  - first:
+      213: 815751098710806047
+    second: PoliceGun_Walk_07
+  - first:
+      213: 1699230959099071881
+    second: PoliceGun_Walk_08
+  - first:
+      213: 5834270866419139999
+    second: PoliceGun_Shoot_01
+  - first:
+      213: -391008291343945877
+    second: PoliceGun_27
+  - first:
+      213: 1057345163953271947
+    second: PoliceGun_28
+  - first:
+      213: 3393668177722844597
+    second: PoliceGun_Shoot_02
+  - first:
+      213: -1173934224621138968
+    second: PoliceGun_30
+  - first:
+      213: -237210726678762708
+    second: PoliceGun_31
+  - first:
+      213: -4393595574931933357
+    second: PoliceGun_Shoot_03
+  - first:
+      213: 2375719488789274364
+    second: PoliceGun_Shoot_04
+  - first:
+      213: -5492165292296494155
+    second: PoliceGun_Shoot_05
+  - first:
+      213: -7671386070524867239
+    second: PoliceGun_Shoot_06
+  - first:
+      213: 6265025917988084547
+    second: PoliceGun_36
+  - first:
+      213: 8859149050133961949
+    second: PoliceGun_37
+  - first:
+      213: 3993445678166074888
+    second: PoliceGun_38
+  - first:
+      213: 3692609877204362784
+    second: PoliceGun_39
+  - first:
+      213: 8027703392339236806
+    second: PoliceGun_40
+  - first:
+      213: 9075548668278738054
+    second: PoliceGun_41
+  - first:
+      213: -8339581145728178287
+    second: PoliceGun_42
+  - first:
+      213: -766874310791196557
+    second: PoliceGun_43
+  - first:
+      213: 6471355903820918806
+    second: PoliceGun_44
+  - first:
+      213: 6227666610329148536
+    second: PoliceGun_Hurt_01
+  - first:
+      213: -4158490332346663302
+    second: PoliceGun_46
+  - first:
+      213: -3122446180061707364
+    second: PoliceGun_Hurt_02
+  - first:
+      213: 6064999198320925597
+    second: PoliceGun_Hurt_03
+  - first:
+      213: 965258790428198550
+    second: PoliceGun_Hurt_04
+  - first:
+      213: 4294057471630024111
+    second: PoliceGun_50
+  - first:
+      213: -5086436967765323425
+    second: PoliceGun_51
+  - first:
+      213: -2948951945242244728
+    second: PoliceGun_52
+  - first:
+      213: -3849288763135665938
+    second: PoliceGun_53
+  - first:
+      213: -1911838056875072942
+    second: PoliceGun_54
+  - first:
+      213: 6436441728380791135
+    second: PoliceGun_55
+  - first:
+      213: 4502887491220466674
+    second: PoliceGun_56
+  - first:
+      213: -4801750964410690734
+    second: PoliceGun_57
+  - first:
+      213: 3311564045738751285
+    second: PoliceGun_58
+  - first:
+      213: 6999243934434771186
+    second: PoliceGun_59
+  - first:
+      213: -1105145695783161464
+    second: PoliceGun_60
+  - first:
+      213: 1539018061432705178
+    second: PoliceGun_61
+  - first:
+      213: 5081075869415413315
+    second: PoliceGun_62
+  - first:
+      213: 5184302196562183737
+    second: PoliceGun_63
+  - first:
+      213: -546602272707680114
+    second: PoliceGun_64
+  - first:
+      213: -6690616347352147634
+    second: PoliceGun_65
+  - first:
+      213: 5061664639197026897
+    second: PoliceGun_66
+  - first:
+      213: 6406939849530736759
+    second: PoliceGun_67
+  - first:
+      213: 4371672574597266746
+    second: PoliceGun_68
+  - first:
+      213: 7237925127834601483
+    second: PoliceGun_69
+  - first:
+      213: 8902720646851698830
+    second: PoliceGun_70
+  - first:
+      213: -2265933563750654375
+    second: PoliceGun_71
+  - first:
+      213: 4049332302040946324
+    second: PoliceGun_72
+  - first:
+      213: -1736329313215989220
+    second: PoliceGun_Death_01
+  - first:
+      213: 8874956009584000357
+    second: PoliceGun_Death_02
+  - first:
+      213: -1502907543640011031
+    second: PoliceGun_Death_03
+  - first:
+      213: 703439505956537800
+    second: PoliceGun_Death_04
+  - first:
+      213: -1368998831741240238
+    second: PoliceGun_Death_05
+  - first:
+      213: 1362759525272441051
+    second: PoliceGun_Death_06
+  - first:
+      213: -4703405203772016299
+    second: PoliceGun_Death_07
+  - first:
+      213: 3813376097863572379
+    second: PoliceGun_Death_08
+  - first:
+      213: -1718700643141630337
+    second: PoliceGun_Death_09
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoliceGun_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1053
+        width: 146
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4784933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -79}
+        - {x: -73, y: 79}
+        - {x: 73, y: 79}
+        - {x: 73, y: 20}
+        - {x: 15, y: -79}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524895a7698bfeb40800000000000000
+      internalID: 5471795028715734053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1053
+        width: 146
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4784933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -79}
+        - {x: -73, y: -49}
+        - {x: -65, y: 37}
+        - {x: -73, y: 79}
+        - {x: 73, y: 79}
+        - {x: 73, y: -79}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe628e0bfaa9970800000000000000
+      internalID: 8762509199346691013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1053
+        width: 146
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4784933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aee4c7f9681a0f0800000000000000
+      internalID: -1107456013812962713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1053
+        width: 145
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4784933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -78}
+        - {x: -72.5, y: 78}
+        - {x: 72.5, y: 78}
+        - {x: 72.5, y: 21}
+        - {x: 12.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1452cb9057040940800000000000000
+      internalID: 5261338307467564058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1053
+        width: 145
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4784933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -78}
+        - {x: -72.5, y: -50}
+        - {x: -60.5, y: 35}
+        - {x: -72.5, y: 78}
+        - {x: 72.5, y: 78}
+        - {x: 72.5, y: 15}
+        - {x: 25.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e0800932f6bf980800000000000000
+      internalID: -8504081272828064103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1053
+        width: 145
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4784933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -78}
+        - {x: -72.49994, y: -48.157715}
+        - {x: -62.5, y: 35}
+        - {x: -72.5, y: 78}
+        - {x: 72.5, y: 78}
+        - {x: 72.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e6bbc6cb40fa10800000000000000
+      internalID: 1941134756590053022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 692
+        width: 162
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead5502449691bb20800000000000000
+      internalID: 3148463178015661486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 695
+        width: 172
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc0e5e3e141de60800000000000000
+      internalID: 7985236061374696355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 695
+        width: 139
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2ace3e8d70c9f0800000000000000
+      internalID: -450221912844784668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 695
+        width: 148
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50497037ae89a3990800000000000000
+      internalID: -7405438504537713659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 692
+        width: 162
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd98f75649133a0800000000000000
+      internalID: -6687400808016126490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 695
+        width: 172
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48d636ef1be40e0800000000000000
+      internalID: -2283692254882331436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 695
+        width: 139
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ecacf5d41225b00800000000000000
+      internalID: 815751098710806047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Walk_08
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 695
+        width: 148
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d427ced81e49710800000000000000
+      internalID: 1699230959099071881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 518
+        width: 180
+        height: 167
+      alignment: 9
+      pivot: {x: 0.3880347, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c254117e77f050800000000000000
+      internalID: 5834270866419139999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 518
+        width: 179
+        height: 158
+      alignment: 9
+      pivot: {x: 0.39026952, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a7ba2a3bb81f20800000000000000
+      internalID: 3393668177722844597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 518
+        width: 136
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5136768, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35734755a10d603c0800000000000000
+      internalID: -4393595574931933357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 518
+        width: 135
+        height: 158
+      alignment: 9
+      pivot: {x: 0.51738054, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed147b94048f020800000000000000
+      internalID: 2375719488789274364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 518
+        width: 139
+        height: 158
+      alignment: 9
+      pivot: {x: 0.50259024, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b320f0f3c8e7c3b0800000000000000
+      internalID: -5492165292296494155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 518
+        width: 142
+        height: 158
+      alignment: 9
+      pivot: {x: 0.49197215, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4c7b7303c98590800000000000000
+      internalID: -7671386070524867239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Hurt_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 259
+        height: 167
+      alignment: 9
+      pivot: {x: 0.50525105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cda3859cd1d6650800000000000000
+      internalID: 6227666610329148536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Hurt_02
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 343
+        width: 144
+        height: 164
+      alignment: 9
+      pivot: {x: 0.485278, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93852f1eb7daa4d0800000000000000
+      internalID: -3122446180061707364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Hurt_03
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 343
+        width: 145
+        height: 163
+      alignment: 9
+      pivot: {x: 0.48179343, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b92fa13a43b2450800000000000000
+      internalID: 6064999198320925597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Hurt_04
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 343
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48165157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696cbc771c9456d00800000000000000
+      internalID: 965258790428198550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3
+        width: 146
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab9a860b157e7e0800000000000000
+      internalID: -1736329313215989220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_02
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 153
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: -94.5}
+        - {x: -76.5, y: 42.5}
+        - {x: 8.5, y: 94.5}
+        - {x: 76.5, y: 94.5}
+        - {x: 76.5, y: -94.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56df87c187d2a2b70800000000000000
+      internalID: 8874956009584000357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_03
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 161
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -87.5}
+        - {x: -80.5, y: 50.5}
+        - {x: -16.5, y: 87.5}
+        - {x: 19.5, y: 87.5}
+        - {x: 80.5, y: 31.5}
+        - {x: 80.5, y: -87.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee05134d89942be0800000000000000
+      internalID: -1502907543640011031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_04
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3
+        width: 158
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50481f08e13c900800000000000000
+      internalID: 703439505956537800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_05
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3
+        width: 193
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c7328d0d6500de0800000000000000
+      internalID: -1368998831741240238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_06
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3
+        width: 187
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d42a619e79e210800000000000000
+      internalID: 1362759525272441051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_07
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 3
+        width: 190
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f17a03e52abeb0800000000000000
+      internalID: -4703405203772016299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_08
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3
+        width: 200
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9f1c5b55dbe430800000000000000
+      internalID: 3813376097863572379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Death_09
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 3
+        width: 206
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76ce420fd2f528e0800000000000000
+      internalID: -1718700643141630337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceGun_Down
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 213
+        width: 154
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d660ff5d28531ca60800000000000000
+      internalID: 7692488474577798765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

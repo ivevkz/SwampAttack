@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: 354f050b478cc5048a44bb865e0c12b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7844032280692636687
+    second: PolicePistol_Idle_01
+  - first:
+      213: 9175764328366201580
+    second: PolicePistol_Idle_02
+  - first:
+      213: -112068463959451907
+    second: PolicePistol_Idle_03
+  - first:
+      213: -4488644438899317657
+    second: PolicePistol_Idle_04
+  - first:
+      213: 287947425342302003
+    second: PolicePistol_Idle_05
+  - first:
+      213: 8913945750715510320
+    second: PolicePistol_Idle_06
+  - first:
+      213: 7180432337565481644
+    second: PolicePistol_Down
+  - first:
+      213: 5665753480699108278
+    second: PolicePistol_7
+  - first:
+      213: 3183373430489005570
+    second: PolicePistol_8
+  - first:
+      213: -7638120648232999773
+    second: PolicePistol_9
+  - first:
+      213: -4795054615592198223
+    second: PolicePistol_10
+  - first:
+      213: -2990671135296235684
+    second: PolicePistol_11
+  - first:
+      213: -1792568910310877150
+    second: PolicePistol_12
+  - first:
+      213: 1935707572070840095
+    second: PolicePistol_13
+  - first:
+      213: -708879723377616653
+    second: PolicePistol_14
+  - first:
+      213: 6381885268941836276
+    second: PolicePistol_15
+  - first:
+      213: 1149155122846535251
+    second: PolicePistol_16
+  - first:
+      213: 746526611172381735
+    second: PolicePistol_17
+  - first:
+      213: 5642977569441560380
+    second: PolicePistol_Walk_01
+  - first:
+      213: 3647618776759858538
+    second: PolicePistol_Walk_02
+  - first:
+      213: -1587947740164097553
+    second: PolicePistol_Walk_03
+  - first:
+      213: 2614087189102430834
+    second: PolicePistol_Walk_04
+  - first:
+      213: 7662580852275905039
+    second: PolicePistol_Walk_05
+  - first:
+      213: -6204613660014568130
+    second: PolicePistol_Walk_06
+  - first:
+      213: -6598101541914132592
+    second: PolicePistol_Walk_07
+  - first:
+      213: 6674157811796396973
+    second: PolicePistol_Walk_08
+  - first:
+      213: -1455049819872618585
+    second: PolicePistol_Shoot_01
+  - first:
+      213: -9172480346123273578
+    second: PolicePistol_Shoot_02
+  - first:
+      213: -48553901910344378
+    second: PolicePistol_Shoot_03
+  - first:
+      213: -7436758103090907854
+    second: PolicePistol_Shoot_04
+  - first:
+      213: 6704274886814606856
+    second: PolicePistol_Shoot_05
+  - first:
+      213: 5199456036890339577
+    second: PolicePistol_Shoot_06
+  - first:
+      213: -969122757873057959
+    second: PolicePistol_32
+  - first:
+      213: -5900969362883598246
+    second: PolicePistol_33
+  - first:
+      213: 4573846001091455702
+    second: PolicePistol_34
+  - first:
+      213: 1259489191865976783
+    second: PolicePistol_Hurt_01
+  - first:
+      213: 6806067121986903705
+    second: PolicePistol_36
+  - first:
+      213: 284426430191262671
+    second: PolicePistol_Hurt_02
+  - first:
+      213: -3659578040162004220
+    second: PolicePistol_Hurt_03
+  - first:
+      213: 7610720231721630491
+    second: PolicePistol_Hurt_04
+  - first:
+      213: -651011094475461154
+    second: PolicePistol_40
+  - first:
+      213: 638427631583421774
+    second: PolicePistol_41
+  - first:
+      213: -2915303548049909932
+    second: PolicePistol_42
+  - first:
+      213: 2330291092497974347
+    second: PolicePistol_43
+  - first:
+      213: 8175307856857828325
+    second: PolicePistol_44
+  - first:
+      213: -8251783512239668609
+    second: PolicePistol_45
+  - first:
+      213: 5602475618287439882
+    second: PolicePistol_46
+  - first:
+      213: 4251299378710770232
+    second: PolicePistol_47
+  - first:
+      213: -3946313570188972155
+    second: PolicePistol_48
+  - first:
+      213: 3497489842363600040
+    second: PolicePistol_49
+  - first:
+      213: -1963123723003083379
+    second: PolicePistol_50
+  - first:
+      213: -2860520087969877662
+    second: PolicePistol_51
+  - first:
+      213: 42812824135440210
+    second: PolicePistol_52
+  - first:
+      213: 8430188785559846273
+    second: PolicePistol_53
+  - first:
+      213: 2944358361412368712
+    second: PolicePistol_54
+  - first:
+      213: -3380919438287287571
+    second: PolicePistol_55
+  - first:
+      213: 8697827250553692368
+    second: PolicePistol_56
+  - first:
+      213: -8204124510575236451
+    second: PolicePistol_57
+  - first:
+      213: 3415250173221643813
+    second: PolicePistol_58
+  - first:
+      213: -8752474337778889254
+    second: PolicePistol_59
+  - first:
+      213: -918278285368825952
+    second: PolicePistol_60
+  - first:
+      213: -8395687678017416874
+    second: PolicePistol_61
+  - first:
+      213: -8015500383412824933
+    second: PolicePistol_62
+  - first:
+      213: 8861305745161231246
+    second: PolicePistol_63
+  - first:
+      213: -1997210043532565986
+    second: PolicePistol_Death_01
+  - first:
+      213: -1503855408439244831
+    second: PolicePistol_Death_02
+  - first:
+      213: 2654547857537768343
+    second: PolicePistol_Death_03
+  - first:
+      213: -4199581410031900386
+    second: PolicePistol_Death_04
+  - first:
+      213: -3802869984004926930
+    second: PolicePistol_Death_05
+  - first:
+      213: 2281768942836205066
+    second: PolicePistol_Death_06
+  - first:
+      213: -432229332198286566
+    second: PolicePistol_Death_07
+  - first:
+      213: 8501582330717982143
+    second: PolicePistol_Death_08
+  - first:
+      213: 5790702386298947228
+    second: PolicePistol_Death_09
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PolicePistol_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1054
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4819312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: -79}
+        - {x: -72.5, y: -79}
+        - {x: -72.5, y: 79}
+        - {x: 72.5, y: 79}
+        - {x: 72.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb161ccc99bdc60800000000000000
+      internalID: 7844032280692636687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1054
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4819312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -79}
+        - {x: -72.5, y: -79}
+        - {x: -72.5, y: 21}
+        - {x: -60.5, y: 34}
+        - {x: -72.5, y: 79}
+        - {x: 72.5, y: 79}
+        - {x: 72.5, y: -50}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead7f69a0dd65f70800000000000000
+      internalID: 9175764328366201580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1054
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4819312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -79}
+        - {x: -72.5, y: -26}
+        - {x: -62.5, y: 33}
+        - {x: -72.5, y: 79}
+        - {x: 72.5, y: 79}
+        - {x: 72.5, y: -31}
+        - {x: 19.5, y: -79}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df65c27635ad17ef0800000000000000
+      internalID: -112068463959451907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1054
+        width: 145
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4819312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -78}
+        - {x: -72.5, y: -58.67102}
+        - {x: -61.5, y: 35}
+        - {x: -72.5, y: 78}
+        - {x: 72.5, y: 78}
+        - {x: 72.5, y: 11.661133}
+        - {x: 26.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764af582aa125b1c0800000000000000
+      internalID: -4488644438899317657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1054
+        width: 145
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4819312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -78}
+        - {x: -72.49994, y: -48.157715}
+        - {x: -58.5, y: 33}
+        - {x: -72.5, y: 78}
+        - {x: 72.5, y: 78}
+        - {x: 72.5, y: 4.6776123}
+        - {x: 15.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337248168aefef300800000000000000
+      internalID: 287947425342302003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1054
+        width: 145
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4819312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -78}
+        - {x: -72.49988, y: -46.250366}
+        - {x: -59.5, y: 31}
+        - {x: -72.5, y: 78}
+        - {x: 72.5, y: 78}
+        - {x: 72.5, y: -78}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2082ae62b4bb70800000000000000
+      internalID: 8913945750715510320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 693
+        width: 161
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37bf0e9332ef4e40800000000000000
+      internalID: 5642977569441560380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 696
+        width: 172
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f0d893f1fe9230800000000000000
+      internalID: 3647618776759858538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 696
+        width: 139
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe972a191f976f9e0800000000000000
+      internalID: -1587947740164097553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 696
+        width: 146
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a895ec27a174420800000000000000
+      internalID: 2614087189102430834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 693
+        width: 161
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f028d92efa4f65a60800000000000000
+      internalID: 7662580852275905039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 696
+        width: 172
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9b4aefb8c4e9a0800000000000000
+      internalID: -6204613660014568130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 696
+        width: 139
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f304a1b95de64a0800000000000000
+      internalID: -6598101541914132592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Walk_08
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 696
+        width: 146
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc50b2b2f5f9c50800000000000000
+      internalID: 6674157811796396973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Shoot_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 518
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48193118, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71ff3e5ef9ecbe0800000000000000
+      internalID: -1455049819872618585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Shoot_02
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 518
+        width: 153
+        height: 158
+      alignment: 9
+      pivot: {x: 0.45665765, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af11c19bdc4b080800000000000000
+      internalID: -9172480346123273578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Shoot_03
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 518
+        width: 141
+        height: 158
+      alignment: 9
+      pivot: {x: 0.49546131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dbc24cb70835ff0800000000000000
+      internalID: -48553901910344378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Shoot_04
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 518
+        width: 140
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49900034, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23532c828e35bc890800000000000000
+      internalID: -7436758103090907854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Shoot_05
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 518
+        width: 143
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48167878, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80628212d7e5a0d50800000000000000
+      internalID: 6704274886814606856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Shoot_06
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 518
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48170376, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8eb18b7bd282840800000000000000
+      internalID: 5199456036890339577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Hurt_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 206
+        height: 165
+      alignment: 9
+      pivot: {x: 0.6352136, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: -82.5}
+        - {x: -103, y: -82.5}
+        - {x: -103, y: 82.5}
+        - {x: 79, y: 82.5}
+        - {x: 90, y: 53.5}
+        - {x: 103, y: 47.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78d973fba9a7110800000000000000
+      internalID: 1259489191865976783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Hurt_02
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 344
+        width: 204
+        height: 165
+      alignment: 9
+      pivot: {x: 0.64153934, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -82.5}
+        - {x: -94, y: 33.5}
+        - {x: -102, y: 43.5}
+        - {x: -102, y: 82.5}
+        - {x: 102, y: 82.5}
+        - {x: 102, y: -82.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5840d45c72f300800000000000000
+      internalID: 284426430191262671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Hurt_03
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 344
+        width: 144
+        height: 163
+      alignment: 9
+      pivot: {x: 0.485278, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d2586921963dc0800000000000000
+      internalID: -3659578040162004220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Hurt_04
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 344
+        width: 145
+        height: 158
+      alignment: 9
+      pivot: {x: 0.48182163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b75a83ab5be9960800000000000000
+      internalID: 7610720231721630491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_01
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3
+        width: 145
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12266d0c0c7844e0800000000000000
+      internalID: -1997210043532565986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_02
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 153
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: -92}
+        - {x: -76.5, y: 48}
+        - {x: -2.5, y: 92}
+        - {x: 76.5, y: 92}
+        - {x: 76.5, y: -92}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7cd6a497b312be0800000000000000
+      internalID: -1503855408439244831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_03
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 160
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -94}
+        - {x: -80, y: 53}
+        - {x: -42, y: 94}
+        - {x: 15, y: 94}
+        - {x: 79, y: 28}
+        - {x: 80, y: -94}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b10d74639d6d420800000000000000
+      internalID: 2654547857537768343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_04
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3
+        width: 159
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e6b935f618b5c0800000000000000
+      internalID: -4199581410031900386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_05
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3
+        width: 194
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221464e5ed793bc0800000000000000
+      internalID: -3802869984004926930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_06
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3
+        width: 187
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064541a3c87aaf10800000000000000
+      internalID: 2281768942836205066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_07
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3
+        width: 189
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b11d066b9600af0800000000000000
+      internalID: -432229332198286566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_08
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3
+        width: 201
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdce232610bbf570800000000000000
+      internalID: 8501582330717982143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Death_09
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3
+        width: 205
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960b5fc325bc5050800000000000000
+      internalID: 5790702386298947228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PolicePistol_Down
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 213
+        width: 154
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa715eda2506a360800000000000000
+      internalID: 7180432337565481644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
